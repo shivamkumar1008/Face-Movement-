@@ -1,7 +1,7 @@
 flask==2.3.3
 flask-socketio==5.3.6
 opencv-python==4.11.0.86
-tensorflow==2.19.0
+tensorflow==2.20.0
 tensorflow-hub==0.16.1
 numpy>=1.26.0
 python-engineio==4.8.0
